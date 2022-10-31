@@ -1,0 +1,36 @@
+{
+    "domains": [
+      {
+        "boughtAt": null,
+        "createdAt": 1661600763467,
+        "expiresAt": null,
+        "id": "QmU6MNxnLiWpTPC6KLqcXiKUP8i3qowA72cZCEWD8MmfTG",
+        "name": "to-do-vercel.app",
+        "serviceType": "na",
+        "transferredAt": null,
+        "cdnEnabled": true,
+        "verified": true,
+        "nameservers": [],
+        "intendedNameservers": [
+          "ns1.vercel-dns.com",
+          "ns2.vercel-dns.com"
+        ],
+        "creator": {
+          "id": "WkaAM7XNCbgixtqVKjmEHm9H",
+          "customerId": null,
+          "email": "ricardolg11@gmail.com",
+          "username": "ricardomoiseis"
+        },
+        "zone": true,
+        "configVerifiedAt": null,
+        "txtVerifiedAt": null,
+        "nsVerifiedAt": null,
+        "verificationRecord": "UDsLDU7kab"
+      }
+    ],
+    "pagination": {
+      "count": 1,
+      "next": null,
+      "prev": 1661600763467
+    }
+  }
